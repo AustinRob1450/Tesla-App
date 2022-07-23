@@ -29,6 +29,13 @@ const styles = StyleSheet.create({
     height: '100%',
   },
 
+  buttonsContainer:
+  {
+    position: 'absolute',
+    bottom: 90,
+    width: '100%'
+  }
+
 });
 
 
